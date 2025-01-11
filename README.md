@@ -1,5 +1,4 @@
-
-#Solidity Smart Contract Tutorial.
+# Solidity Smart Contract Tutorial.
 ### Checkout below files to learn step by step process.
 
 1) [Introduction](https://github.com/OkYashGajjar/fully-explained-solidity/blob/main/Introduction.md)
